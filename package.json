@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "@monaco-editor/react": "^4.5.2"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
   }
 }
